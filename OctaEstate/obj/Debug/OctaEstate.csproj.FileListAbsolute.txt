@@ -1,0 +1,337 @@
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\OctaEstate.csproj.AssemblyReference.cache
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\OctaEstate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\POS.OctaTextBox.resources
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\POS.SplashScreen.resources
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\BuniRealEstates.Form1.resources
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\POS.LoginForm.resources
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\OctaEstate.Properties.Resources.resources
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\OctaEstate.csproj.GenerateResource.cache
+C:\Users\Core i3\Downloads\Compressed\cs\myproj\POS\obj\Debug\OctaEstate.exe.licenses
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaTextBox.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.SplashScreen.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.LoginForm.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.Properties.Resources.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.GenerateResource.cache
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.licenses
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe.config
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\OctaEstate.pdb
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Utils.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CopyComplete
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.pdb
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashboardForm.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashBoardControl.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaComboBox.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddPropertiesForm.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertiesControl.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.HistoryControl.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertyTypesControl.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.FeaturesControl.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddFeaturesForm.resources
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Data.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Web.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Google.Protobuf.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\ZstdNet.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\System.Memory.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\System.Buffers.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Data.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\bin\Debug\MySql.Web.xml
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.AssemblyReference.cache
+C:\Users\Core i3\Downloads\Compressed\cs\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.config
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe.config
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\OctaEstate.pdb
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Licensing.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Utils.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Google.Protobuf.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\ZstdNet.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\BouncyCastle.Crypto.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Ubiety.Dns.Core.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\System.Memory.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\System.Buffers.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\K4os.Hash.xxHash.dll
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\MySql.Data.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\bin\Debug\MySql.Web.xml
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.AssemblyReference.cache
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.SuggestedBindingRedirects.cache
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.config
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.HistoryControl.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertyTypesControl.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.FeaturesControl.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertiesControl.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaComboBox.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaTextBox.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddFeaturesForm.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddPropertiesForm.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.SplashScreen.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashboardForm.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashBoardControl.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.LoginForm.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.Properties.Resources.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.GenerateResource.cache
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.licenses
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CoreCompileInputs.cache
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CopyComplete
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.pdb
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddPropertyTypeForm.resources
+E:\Desctop Projects\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DeleteForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe.config
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\OctaEstate.exe
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\OctaEstate.pdb
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Utils.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Data.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Web.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Google.Protobuf.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\ZstdNet.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\System.Memory.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\System.Buffers.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Data.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\bin\Debug\MySql.Web.xml
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.AssemblyReference.cache
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.config
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.HistoryControl.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertyTypesControl.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.FeaturesControl.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.PropertiesControl.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaComboBox.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.OctaTextBox.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DeleteForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddPropertyTypeForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddFeaturesForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.AddPropertiesForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.SplashScreen.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashboardForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.DashBoardControl.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.LoginForm.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.Properties.Resources.resources
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.GenerateResource.cache
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe.licenses
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CoreCompileInputs.cache
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.csproj.CopyComplete
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.exe
+C:\Users\Grace\Desktop\OctaEstate\OctaEstate\OctaEstate\obj\Debug\OctaEstate.pdb
